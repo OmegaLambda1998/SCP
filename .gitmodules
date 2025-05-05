@@ -1,0 +1,9 @@
+[submodule "Istari"]
+	path = Istari
+	url = ./Istari/
+[submodule "suPAErnova"]
+	path = suPAErnova
+	url = ./suPAErnova/
+[submodule "suPAErnova_legacy"]
+	path = suPAErnova_legacy
+	url = ./suPAErnova_legacy/
