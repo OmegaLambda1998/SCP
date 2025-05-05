@@ -1,9 +1,10 @@
 [submodule "Istari"]
 	path = Istari
-	url = ./Istari/
+        url = git@github.com:OmegaLambda1998/Istari.git
 [submodule "suPAErnova"]
 	path = suPAErnova
 	url = ./suPAErnova/
+        url = git@github.com:OmegaLambda1998/suPAErnova.git
 [submodule "suPAErnova_legacy"]
 	path = suPAErnova_legacy
-	url = ./suPAErnova_legacy/
+        url = git@github.com:OmegaLambda1998/suPAErnova_legacy.git
